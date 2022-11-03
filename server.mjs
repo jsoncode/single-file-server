@@ -106,7 +106,6 @@ body{margin:0;font-size:14px;line-height: 1.4;}
                 </div>`).join('')}
             </div>
         </div>
-    <script src="https://unpkg.com/@ffmpeg/ffmpeg@0.9.5/dist/ffmpeg.min.js"></script>
     <script>
     let player = document.querySelector('.player')
     document.addEventListener('click',async (e)=>{
